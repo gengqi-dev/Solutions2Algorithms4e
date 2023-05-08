@@ -8,7 +8,7 @@ package Chapter01.Section01;
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Excercise09 {
+public class Exercise09 {
     public static void main(String[] args) {
         int data = Integer.parseInt(args[0]);
         String result = "";

@@ -8,7 +8,7 @@ package Chapter01.Section01;
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Excercise15 {
+public class Exercise15 {
     public static void main(String[] args) {
         int[] a = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 0, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
         int M = 10;

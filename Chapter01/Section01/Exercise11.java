@@ -8,7 +8,7 @@ package Chapter01.Section01;
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Excercise11 {
+public class Exercise11 {
     public static void main(String[] args) {
         boolean[][] arr = new boolean[7][8];
         // Do print

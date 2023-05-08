@@ -7,7 +7,7 @@
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Excercise03 {
+public class Exercise03 {
     public static void main(String[] args) {
         if (args.length == 3) {
             int a = Integer.parseInt(args[0]);

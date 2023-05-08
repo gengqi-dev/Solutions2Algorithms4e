@@ -8,7 +8,7 @@ package Chapter01.Section01;
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Excercise07 {
+public class Exercise07 {
     public static void main(String[] args) {
         {
             double t = 9.0;

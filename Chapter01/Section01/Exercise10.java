@@ -5,7 +5,7 @@
  **************************************************************************** */
 
 
-public class Excercise10 {
+public class Exercise10 {
     public static void main(String[] args) {
         // java: variable a might not have been initialized
         // int[] a;

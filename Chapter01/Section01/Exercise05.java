@@ -6,7 +6,7 @@
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Excercise05 {
+public class Exercise05 {
     public static void main(String[] args) {
         if (args.length == 2) {
             double x = Double.parseDouble(args[0]);

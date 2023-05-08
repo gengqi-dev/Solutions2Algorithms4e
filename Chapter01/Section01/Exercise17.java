@@ -8,7 +8,7 @@ package Chapter01.Section01;
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Excercise17 {
+public class Exercise17 {
     public static void main(String[] args) {
         StdOut.println(exR2(6));
     }

@@ -5,7 +5,7 @@
  **************************************************************************** */
 
 
-public class Excercise04 {
+public class Exercise04 {
     public static void main(String[] args) {
         /**********************************************************
          //"then" is not a keyword.

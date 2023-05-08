@@ -10,7 +10,7 @@ import edu.princeton.cs.algs4.StdOut;
 
 import java.math.BigInteger;
 
-public class Excercise19 {
+public class Exercise19 {
     public static BigInteger F(int N) {
         /*
          *   Recursive method to calculate the value

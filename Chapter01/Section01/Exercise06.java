@@ -8,7 +8,7 @@
 import edu.princeton.cs.algs4.StdOut;
 
 // Fibonacci sequence
-public class Excercise06 {
+public class Exercise06 {
     public static void main(String[] args) {
         int f = 0;
         int g = 1;

@@ -6,7 +6,7 @@
 
 package Chapter01.Section01;
 
-public class Excercise08 {
+public class Exercise08 {
     public static void main(String[] args) {
         System.out.println('b');
         System.out.println('b' + 'c');

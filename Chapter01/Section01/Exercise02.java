@@ -7,7 +7,7 @@
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Excercise02 {
+public class Exercise02 {
     public static void main(String[] args) {
         System.out.println((1 + 2.236) / 2);        // 1.618
         StdOut.println(1 + 2 + 3 + 4.0);            // 10.0

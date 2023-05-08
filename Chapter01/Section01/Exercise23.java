@@ -10,7 +10,7 @@ import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
-public class Excercise23 {
+public class Exercise23 {
     public static int rank(int key, int[] a, int lo, int hi, int depth) { // Array must be sorted.
         String s = "";
         for (int i = 0; i < depth; ++i) {

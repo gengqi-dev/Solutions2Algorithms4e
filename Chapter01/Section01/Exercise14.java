@@ -8,7 +8,7 @@ import edu.princeton.cs.algs4.StdOut;
 
 import java.util.Random;
 
-public class Excercise14 {
+public class Exercise14 {
     public static void main(String[] args) {
         Random random = new Random();
         for (int i = 0; i < 10; ++i) {
